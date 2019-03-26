@@ -76,6 +76,18 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
+
+main .additional-image {
+  margin-top: 100px;
+  width: 400px;
+  height: 400px;
+  border: 2px solid black;
+  transition: all .5s;
+}
+main .additional-image:hover {
+  transform: scale(1.2) rotate(5deg);
+}
+
 .tag {
   background-color: rgba(50, 115, 220, 0.3);
   color: white;
