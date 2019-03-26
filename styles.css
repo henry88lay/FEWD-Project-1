@@ -77,23 +77,23 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: #efefef;
-  color: black;
+  background-color: rgba(50, 115, 220, 0.3);
+  color: white;
   padding: 10px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
 } 
 .location {
-  background-color: #222;
-  color: yellow;
+  background-color: rgba(50, 115, 220, 0.3);
+  color: gold;
 }
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #fff;
+  background: rgba(50, 115, 220, 0.3);
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
